@@ -6,7 +6,7 @@
 - **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
 - **Clear Function**: Allows users to clear the current input.
 - **Toggle Sign**: Ability to toggle the sign of the current number.
-- **Percentage Calculation**: Includes a percentage function.
+- **Percentage Calculation**: Includes a pecentage function.
 - **Responsive Design**: Buttons and display adjust to the window size.
 
 ## Project Structure 📁
@@ -65,13 +65,17 @@ CalculatorApp/
     - **Expected Output**: `8`
 ![](https://i.ibb.co/bgkKKNq3/python3-12-z0y-Rv-Zc-B2z.png)
 - **Input**: `4 * 2 =`
-![](https://i.ibb.co/JR3jbFKz/python3-12-GWhi20-Jt-V1.png)
+![](https://i.ibb.co/M0gppwT/python3-12-r-JHu2-RMvgw.png)
     - **Expected Output**: `8`
 ![](https://i.ibb.co/bgkKKNq3/python3-12-z0y-Rv-Zc-B2z.png)
 - **Input**: `16 / 4 =`
 ![](https://i.ibb.co/F4CtzNBg/python3-12-FJEus-CKY1s.png)
     - **Expected Output**: `4`
 ![](https://i.ibb.co/hxBMPJsy/python3-12-we-NI1195-O6.png)
+- **Input**: `9 % =`
+![](https://i.ibb.co/mVk8Pnwy/python3-12-Kzcvtgg-Rfl.png)
+  - **Expected Output**: `0.09`
+![](https://i.ibb.co/jPbmPxfn/python3-12-40-Jnn-Pz6p-P.png)
 - **Input**: `+/- 5 =`
 ![](https://i.ibb.co/CpRJCm7D/python3-12-5x-XPu-N5-YMb.png)
     - **Expected Output**: `-5`
