@@ -10,6 +10,8 @@ class Calculator:
 
     def evaluate_expression(self):
         try:
+            if "%" in self.expression:
+                self.expression = self.expression.replace("%", "/100")
             result = eval(self.expression)
             self.expression = str(result)
             return result
